@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTApi", "LTApi\LTApi.csproj", "{4F3CC14E-6847-457C-B0CC-3A0FEF439600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F3CC14E-6847-457C-B0CC-3A0FEF439600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3CC14E-6847-457C-B0CC-3A0FEF439600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3CC14E-6847-457C-B0CC-3A0FEF439600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3CC14E-6847-457C-B0CC-3A0FEF439600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B74C843-D94F-41D7-9AC7-9B51CAC57077}
+	EndGlobalSection
+EndGlobal
